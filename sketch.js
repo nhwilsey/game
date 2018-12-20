@@ -12,7 +12,7 @@ var backShapes = [];
 
 
 function setup() {
-  createCanvas(1000, 800);
+  createCanvas(1000, 780);
   background(255);
 
 // ------make origonal character////////////////////////////////////////
