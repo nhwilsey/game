@@ -1,6 +1,6 @@
 var colorList = ["lightsalmon",  "lightseagreen", "aqua", "lightskyblue", "aquamarine", "bisque", "lime", "limegreen", "blue", "magenta", "blueviolet", "maroon", "brown", "mediumaquamarine", "burlywood", "mediumblue", "cadetblue", "mediumorchid", "chartreuse", "mediumpurple", "chocolate", "mediumseagreen", "coral", "mediumslateblue", "cornflowerblue", "mediumspringgreen",  "mediumturquoise", "crimson", "mediumvioletred", "cyan", "midnightblue", "darkblue", "darkcyan", "darkgoldenrod", "darkgray",  "darkgreen", "navy", "darkkhaki", "darkmagenta", "olive", "darkolivegreen", "olivedrab", "darkorange", "orange", "darkorchid", "orangered", "darkred", "orchid", "darksalmon", "darkseagreen", "palegreen", "darkslateblue", "paleturquoise", "darkslategray", "palevioletred", "darkturquoise",  "darkviolet", "peachpuff", "deeppink", "peru", "deepskyblue", "pink", "dimgray", "plum", "dodgerblue", "powderblue", "firebrick", "purple", "red", "forestgreen", "rosybrown", "fuchsia", "royalblue", "saddlebrown", "salmon", "gold", "sandybrown", "goldenrod", "seagreen", "green", "sienna", "greenyellow", "silver", "skyblue", "hotpink", "slateblue", "indianred",  "indigo", "springgreen",  "steelblue", "teal", "lawngreen", "thistle", "tomato"];
 
-class Character_{
+class Character123{
   constructor(x,y,color){
     this.x = x;
     this.y = y;
