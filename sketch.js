@@ -31,7 +31,7 @@ function setup() {
   // print(backShapes);
 
 // ------make origonal character////////////////////////////////////////
-  og_human = new Character_(50,600,0);
+  og_human = new Character123(50,600,0);
 
 // ---make origonal blocks to start with////////////////////////////////////////////////
   add_blocks(15);
